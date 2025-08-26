@@ -1,3 +1,5 @@
+this is a bash of converting jpeg and png files into avif format
+
 you need install: ffmpeg
 
 Then:
